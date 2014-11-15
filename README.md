@@ -1,5 +1,5 @@
 BluetoothTest
 =============
 Testy transmisji. Arduno Uno. Moduł bluetooth HC-06
-RX-pin
-TX-pin
+RX-pin2
+TX-pin3
